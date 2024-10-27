@@ -21,7 +21,7 @@ Keerthan K K
 
 Currently pursuing B-Tech in Computer Science and Engineering(Cyber Security) in Amrita Vishwa Vidyapeetham Amritapuri
 
-Interested in App development and Web3
+Interested in App development and System design
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
