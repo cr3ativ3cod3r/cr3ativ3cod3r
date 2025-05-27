@@ -1,63 +1,33 @@
-### Hi there 👋
+# Hi there, I'm [Your Name] 👋
+
+Welcome to my GitHub profile!
+
+---
+
+## 🚀 About Me
+- Passionate backend developer with experience in **Go**, **Python**, **Flutter**, and Machine Learning.
+- Enthusiast of scalable architecture, clean code, and open-source contributions.
+- Interested in building robust and scalable systems.
+- Exploring design patterns and software architetcture.
+
+---
+
+## 🛠️ Technologies & Tools
+- **Languages:** Go, Python, C, C++, JavaScript, Java
+- **Frameworks & Libraries:** Flutter, Express.js, Flask
+- **Developer tools:** Linux, Git
+- **Databases:** MongoDB, PostgreSQL
+
+---
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/keerthan-k-k-6204692b3/)
 
 
+---
 
-<!--
-**cr3ativ3cod3r/cr3ativ3cod3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-```yaml
-Keerthan K K
-
-Currently pursuing B-Tech in Computer Science and Engineering(Cyber Security) in Amrita Vishwa Vidyapeetham Amritapuri
-
-Interested in App development and System design
-```
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="70" height="70"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" width="70" height="70"/>
-
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="70" height="70"/>
-          
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70" height="70"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="70" height="70"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="70" height="70"/>
-          
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" height="70"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="70" height="70"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" width="70" height="70"/>
-           
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="70" height="70"/>
-
-  
-  
-          
-          
-          
-  
-  
-          
-          
-          
-</p>
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
