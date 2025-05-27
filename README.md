@@ -1,10 +1,7 @@
-# Hi there, I'm [Your Name] 👋
-
-Welcome to my GitHub profile!
-
+# Hi there, I'm Keerthan K K
 ---
 
-## 🚀 About Me
+## About Me
 - Passionate backend developer with experience in **Go**, **Python**, **Flutter**, and Machine Learning.
 - Enthusiast of scalable architecture, clean code, and open-source contributions.
 - Interested in building robust and scalable systems.
@@ -12,7 +9,7 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 - **Languages:** Go, Python, C, C++, JavaScript, Java
 - **Frameworks & Libraries:** Flutter, Express.js, Flask
 - **Developer tools:** Linux, Git
@@ -20,7 +17,7 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/keerthan-k-k-6204692b3/)
 
 
