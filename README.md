@@ -10,20 +10,16 @@
 ---
 
 ## Technologies & Tools
-- **Languages:** Go, Python, C, C++, JavaScript, Java
-- **Frameworks & Libraries:** Flutter, Express.js, Flask
+- **Languages:** Go, Python, C, C++
+- **Frameworks & Libraries:** Flutter, Flask
 - **Developer tools:** Linux, Git
-- **Databases:** MongoDB, PostgreSQL
+- **Databases:** PostgreSQL
 
 ---
 
 ## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/keerthan-k-k-6204692b3/)
 
-
----
-
-Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate.
 
 ---
 
