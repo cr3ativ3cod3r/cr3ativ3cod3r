@@ -2,7 +2,7 @@
 ---
 
 ## About Me
-- Passionate backend developer with experience in **Go**, **Python**, **Flask**, **Java** **Flutter**, and **Machine Learning**.
+- Passionate backend developer with experience in **Go**, **Python**, **Flask**, and **Machine Learning**.
 - Enthusiast of scalable architecture, clean code, and open-source contributions.
 - Interested in building robust and scalable systems.
 - Exploring design patterns and software architetcture.
